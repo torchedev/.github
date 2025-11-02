@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://torche.net/favicon-new.ico" width="96" alt="Torche logo"><br/>
+  <img src="torche-t-logo-black.png" width="96" alt="Torche logo"><br/>
   <b>Torche</b>
 </p>
 
