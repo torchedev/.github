@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="torche-t-logo-black.png" width="96" alt="Torche logo"><br/>
   <b>Torche</b>
 </p>
 
-<p align="center">
+<div align="center">
+  <img src="torche-t-logo-black.png" width="150" alt="Torche logo" align="right">
   <i>Fast, lightweight, and beginner-friendly web framework.</i>
-</p>
+</div>
 
 <p align="center">
   <a href="https://torche.net">Website</a> •
@@ -16,22 +16,22 @@
 
 ---
 
-### 🔥 About Torche
+### ⚡ About Torche
 
 Torche is a modern web framework built for **speed**, **simplicity**, and **developer delight**.  
 It’s designed to help beginners and professionals build fast, scalable applications with minimal setup.
 
-- ⚡ Lightweight core — minimal dependencies, instant startup  
-- 🧩 Modular — pick only what you need  
-- 🧠 Beginner-friendly — simple structure, no config hell  
-- 🌐 Runs anywhere — works in browsers, Node, and edge runtimes  
+- Lightweight core — minimal dependencies, instant startup  
+- Modular — pick only what you need  
+- Beginner-friendly — simple structure, no config hell  
+- Runs anywhere — works in browsers, Node, and edge runtimes  
 
 ---
 
-### 📦 Projects
+### 📂 Works
 
-| Project | Description |
-|----------|--------------|
+| Name | Description |
+|------|-------------|
 | [torche](https://github.com/torchedev/torche) | The core Torche framework |
 | [docs](https://github.com/torchedev/docs) | Documentation for Torche |
 | [website](https://github.com/torchedev/website) | Official website at [torche.net](https://torche.net) |
@@ -40,9 +40,9 @@ It’s designed to help beginners and professionals build fast, scalable applica
 
 ### 🚀 Quick Links
 
-- 🌐 [torche.net](https://torche.net) — Official Website  
-- 📘 [docs.torche.net](https://docs.torche.net) — Documentation  
-- 🧑‍💻 [GitHub @torchedev](https://github.com/torchedev) — Source Code & Projects  
+- [torche.net](https://torche.net) — Official Website  
+- [docs.torche.net](https://docs.torche.net) — Documentation  
+- [GitHub @torchedev](https://github.com/torchedev) — Source Code & Repos  
 
 ---
 
