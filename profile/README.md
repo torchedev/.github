@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="torche-t-logo-black.png" width="150" alt="Torche logo" align="right">
+  <img src="torche-t-logo-black.png" width="180" alt="Torche logo" align="left">
   <i>Fast, lightweight, and beginner-friendly web framework.</i>
 </div>
 
